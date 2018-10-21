@@ -1,8 +1,5 @@
-# flutter_chat
+A simple app, courtesy- @iampawan, showcasing a basic dummy listview app thingy, which could very well mimic a chat app (Where you are so lonely that you could only text yourself!)
 
-A new Flutter project.
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![screenshot](https://github.com/jashasweejena/dummy_chat/raw/master/screenshot.png)
